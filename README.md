@@ -25,9 +25,9 @@ SLIIT Undergraduate | Information Technology Student | Web Development • Codin
 ---
 
 ## 📫 Connect With Me
-
+ 
 📧 Email: sherinchristy2001@gmail.com  
-🌐 Portfolio: https://portfolio-sherin-silomy.vercel.app
+🌐 Portfolio: https://portfolio-sherin-silomy.vercel.app  
 💼 LinkedIn: https://www.linkedin.com/in/sherin29
 
 ---
